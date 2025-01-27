@@ -47,6 +47,16 @@ body {
     align-items: center;
     justify-content: center;
 }
+.product-grid div {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.product-grid div h1 {
+    background-color: #92e09c;
+    border-radius: 10px;
+}
+
 .product-list {
     display: flex;
     flex-wrap: wrap;
